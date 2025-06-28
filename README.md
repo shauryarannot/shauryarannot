@@ -1,7 +1,5 @@
-# 🎬 CUSTOM HEADER
-<!-- Replace with your custom video or GIF -->
 <div align="center">
-  <img src="YOUR_CUSTOM_VIDEO_OR_GIF_URL_HERE" alt="Custom Header Animation" width="100%" height="350" style="border-radius: 20px; object-fit: cover; border: 3px solid #00D9FF;" />
+  <img src="https://github.com/shauryarannot/shauryarannot/blob/main/banner.gif" alt="Custom Header Animation" width="100%" height="350" style="border-radius: 20px; object-fit: cover; border: 3px solid #00D9FF;" />
 </div>
 
 <div align="center">
