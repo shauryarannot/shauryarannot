@@ -135,7 +135,7 @@ const shaurya = {
 ### 🧠 **LeetCode Mastery**
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 <img src="https://leetcard.jacoblin.cool/shauryarannot?theme=nord&font=baloo&ext=contest" width="45%" />
-<img src="https://leetcode-stats-api.herokuapp.com/shauryarannot?theme=dark" width="45%" />
+<!-- <img src="https://leetcode-stats-api.herokuapp.com/shauryarannot?theme=dark" width="45%" /> -->
 </div>
 
 </div>
