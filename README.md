@@ -142,39 +142,6 @@ const shaurya = {
 
 ---
 
-<div align="center">
-
-## 🌟 **FEATURED PROJECTS**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 KnowYourDrugs
-> *AI-Powered Medicine Information Platform*
-
-[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shauryarannot/knowyourdrugs)
-[![Live](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://knowyourdrugs.vercel.app)
-
-**Tech:** React • Next.js • AI/ML • TailwindCSS
-
-</td>
-<td width="50%">
-
-### 🚀 Project Alpha
-> *Revolutionary Web Application*
-
-[![Repo](https://img.shields.io/badge/Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shauryarannot/project-alpha)
-[![Live](https://img.shields.io/badge/Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://project-alpha.vercel.app)
-
-**Tech:** TypeScript • Node.js • MongoDB • Docker
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 <div align="center">
