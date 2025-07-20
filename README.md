@@ -13,9 +13,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shauryarannot&label=👁️%20VISITORS&color=blueviolet&style=for-the-badge&labelColor=000000)](https://github.com/shauryarannot)
-[![Years Badge](https://badges.pufler.dev/years/shauryarannot?style=for-the-badge&color=blue&logo=github&logoColor=white&labelColor=000000)](https://github.com/shauryarannot)
-[![Repos Badge](https://badges.pufler.dev/repos/shauryarannot?style=for-the-badge&color=red&logo=github&logoColor=white&labelColor=000000)](https://github.com/shauryarannot)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/shauryarannot?style=for-the-badge&color=green&logo=github&logoColor=white&labelColor=000000)](https://github.com/shauryarannot)
+[![GitHub followers](https://img.shields.io/github/followers/shauryarannot?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github&logoColor=white&labelColor=000000)](https://github.com/shauryarannot?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/shauryarannot?label=TOTAL%20STARS&style=for-the-badge&color=yellow&logo=github&logoColor=white&labelColor=000000)](https://github.com/shauryarannot)
 
 </div>
 
@@ -67,19 +66,47 @@ const shaurya = {
 <tr>
 <td align="center" width="25%">
 <h3>🎨 Frontend Magic</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 </td>
 <td align="center" width="25%">
 <h3>⚡ Backend Power</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,java,typescript&theme=dark" />
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 </td>
 <td align="center" width="25%">
 <h3>🗄️ Data & Cloud</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgresql,redis,aws,vercel&theme=dark" />
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 </td>
 <td align="center" width="25%">
 <h3>🔧 DevOps Arsenal</h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vim,vscode&theme=dark" />
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </td>
 </tr>
 </table>
@@ -89,6 +116,8 @@ const shaurya = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -114,6 +143,9 @@ const shaurya = {
 ### 📈 **Code Distribution**
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryarannot&layout=donut-vertical&theme=radical&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=DEG,0D1117,1a1a2e,16213e&langs_count=8" />
 
+### 📈 **Contribution Graph**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shauryarannot&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+
 </div>
 
 ---
@@ -133,14 +165,11 @@ const shaurya = {
 </table>
 
 ### 🧠 **LeetCode Mastery**
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-<img src="https://leetcard.jacoblin.cool/shauryarannot?theme=nord&font=baloo&ext=contest" width="45%" />
-<!-- <img src="https://leetcode-stats-api.herokuapp.com/shauryarannot?theme=dark" width="45%" /> -->
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/shauryarannot?theme=nord&font=baloo&ext=contest" width="60%" />
 </div>
 
 </div>
-
----
 
 ---
 
@@ -163,7 +192,7 @@ const shaurya = {
 </a>
 </td>
 <td align="center">
-<a href="www.shauryarannot.xyz">
+<a href="https://www.shauryarannot.xyz">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" alt="Portfolio" />
 </a>
 </td>
