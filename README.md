@@ -213,37 +213,6 @@ const shaurya = {
 
 ---
 
-<div align="center">
-
-## 💡 **CODING PHILOSOPHY**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="300">
-
-```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    innovate();
-    repeat();
-}
-```
-
-### 🎯 **Current Focus Areas**
-- 🤖 **AI/ML Integration** • Building smarter applications
-- ⚡ **Performance Optimization** • Milliseconds matter
-- 🎨 **UI/UX Excellence** • Beauty meets functionality  
-- 🔒 **Security First** • Protecting digital assets
-- 🌍 **Open Source** • Contributing to the community
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 *"In a world of algorithms, be the poet who writes in code"*
-
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c13.gif" width="200">
 
 **🌟 Ready to collaborate? Let's build something extraordinary together! 🌟**
