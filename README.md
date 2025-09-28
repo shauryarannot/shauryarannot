@@ -215,8 +215,6 @@ const shaurya = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c13.gif" width="200">
 
-**🌟 Ready to collaborate? Let's build something extraordinary together! 🌟**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
